@@ -12,13 +12,11 @@ Hola soy jairo! soy **Programador Backend**:iphone:, realice un api rest **para 
 <!-- Profile View Count -->
  
 <!-- Working GIF -->
-<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="500" height="250" />
+<!--<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="500" height="250" />-->
 
-### 💼  Things that I'm currently working on: 
-* Learning Front-End Web:computer: Development
-* Learning some vectors drawing:art: by using Adobe Illustrator.
-* Looking forward to take a Flutter:calling: course in future.
-* 🔜
+### 💼  Documentacion de Entity Framework: 
+* https://www.entityframeworktutorial.net/efcore/querying-in-ef-core.aspx
+* https://www.learnentityframeworkcore.com/
 
 ### 🌱 Challenges that I’m currently challenging myself:
 Since the world is in the quarantine stage:earth_asia:, and I’m having lots of spare time:watch:, I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
