@@ -3,7 +3,7 @@
 # Hey there! :wave::smiley:
 
 <!--Introduction -->
-Hola soy jairo! soy **Programador Backend**:iphone:, realice un api rest **para un proyecto de facturacion electronica usando web service en net core **:earth_asia:. Me apasiona la programacion  **open-source** more accessible, creating sosftware:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.d
+Hola soy jairo! soy **Programador Backend**:iphone:, realice un api rest **para un proyecto de facturacion electronica usando web service en net core **:earth_asia:. Me apasiona la programacion  **dale una estrella** realice los servicios de crear, listar,editar,eliminar cada dia trato de ser mejor programador :computer: gracias por visitarme.
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
