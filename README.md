@@ -20,12 +20,9 @@ Hola soy jairo! soy **Programador Backend**:iphone:, realice un api rest **para 
 
 ### Veamos los Servicios Implementados:
 ![image](https://github.com/josiasisrael14/ProyectFE/assets/43103053/6318d81f-8b9a-4750-b8a8-bba3b8b5b953)
-* Learn to code:man_technologist: 3-4 hours a day with no distraction ( One or two day off a week. ) 
-* Read:newspaper: Dev and UI articles daily 
-* Workout:weight_lifting_man: 3 days in a row and take a day break 
-* Avoid spending too much time on Youtube Entertainment:skull_and_crossbones:
-* Adapting the minimalism life style
-* 🔜
+![image](https://github.com/josiasisrael14/ProyectFE/assets/43103053/dc87dc96-5138-49c1-9d87-68bbc2821ed3)
+![image](https://github.com/josiasisrael14/ProyectFE/assets/43103053/0cabd07d-a53f-4878-b4bf-bba5adc9c786)
+
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
