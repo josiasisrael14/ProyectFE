@@ -19,6 +19,9 @@ Hola soy jairo! soy **Programador Backend**:iphone:, realice un api rest **para 
 * https://www.learnentityframeworkcore.com/
 
 ### Veamos los Servicios Implementados:
+ .Servicio para listar registro GetUser</br>
+ .Servicio para listar registro por id GetUser</br>
+ .Servicio para guardar y actualizar InsertOrUpdateUser </br>
 ![image](https://github.com/josiasisrael14/ProyectFE/assets/43103053/6318d81f-8b9a-4750-b8a8-bba3b8b5b953)
  
 ![image](https://github.com/josiasisrael14/ProyectFE/assets/43103053/dc87dc96-5138-49c1-9d87-68bbc2821ed3)
