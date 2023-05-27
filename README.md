@@ -46,7 +46,8 @@ Hola soy jairo! soy **Programador Backend**:iphone:, realice un api rest **para 
  
  
 
- ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ ### Estoy usando una libreria llamada AUTOMAPPER Y AUTOMAPPER.EXTENSIONS.MICROSOFT.DEPENDENCYINYECTION
+ <h3>Esta libreria sirve para mapear los datos y no estar solicitando cada propiedad de la clase, usando el mappeo traemos el conjunto de datos requeridos</h3>
 <p> <!-- GitHub README Stats -->
   <a href="https://github.com/JoykishanSharma?tab=repositories">
     <img width="500" height="auto" align="right" alt="Joykishan's github stats" 
