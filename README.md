@@ -24,7 +24,23 @@ Hola soy jairo! soy **Programador Backend**:iphone:, realice un api rest **para 
 ![image](https://github.com/josiasisrael14/ProyectFE/assets/43103053/dc87dc96-5138-49c1-9d87-68bbc2821ed3)
  
 ![image](https://github.com/josiasisrael14/ProyectFE/assets/43103053/0cabd07d-a53f-4878-b4bf-bba5adc9c786)
+# Hemos visto los servicios de la tabla User. existen mas tablas que he implementado servicios.
 
+# A continuacion te mostrare el controlador de la tabla User
+ 
+ .Controlador para listar Getuser
+ .Controlador para listar por id GetUserById
+ .controlador para guardar y actualizar el registro InsertOrUpdateUser
+ 
+ ![image](https://github.com/josiasisrael14/ProyectFE/assets/43103053/c552072e-c218-4651-80a0-968bb3a0bf20)
+
+ ![image](https://github.com/josiasisrael14/ProyectFE/assets/43103053/83089943-e2e9-4088-acce-2dbebe0197d5)
+
+ 
+ ![image](https://github.com/josiasisrael14/ProyectFE/assets/43103053/0844017a-df0b-4a8d-aa7b-e233aead79b3)
+
+ 
+ 
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
