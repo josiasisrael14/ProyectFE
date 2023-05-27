@@ -28,9 +28,9 @@ Hola soy jairo! soy **Programador Backend**:iphone:, realice un api rest **para 
 
 # A continuacion te mostrare el controlador de la tabla User
  
- .Controlador para listar Getuser
- .Controlador para listar por id GetUserById
- .controlador para guardar y actualizar el registro InsertOrUpdateUser
+ .Controlador para listar Getuser</br>
+ .Controlador para listar por id GetUserById</br>
+ .controlador para guardar y actualizar el registro InsertOrUpdateUser</br>
  
  ![image](https://github.com/josiasisrael14/ProyectFE/assets/43103053/c552072e-c218-4651-80a0-968bb3a0bf20)
 
