@@ -19,8 +19,7 @@ Hola soy jairo! soy **Programador Backend**:iphone:, realice un api rest **para 
 * https://www.learnentityframeworkcore.com/
 
 ### Veamos los Servicios Implementados:
-Since the world is in the quarantine stage:earth_asia:, and I’m having lots of spare time:watch:, I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
-
+![image](https://github.com/josiasisrael14/ProyectFE/assets/43103053/6318d81f-8b9a-4750-b8a8-bba3b8b5b953)
 * Learn to code:man_technologist: 3-4 hours a day with no distraction ( One or two day off a week. ) 
 * Read:newspaper: Dev and UI articles daily 
 * Workout:weight_lifting_man: 3 days in a row and take a day break 
