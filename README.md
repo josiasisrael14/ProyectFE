@@ -18,7 +18,7 @@ Hola soy jairo! soy **Programador Backend**:iphone:, realice un api rest **para 
 * https://www.entityframeworktutorial.net/efcore/querying-in-ef-core.aspx
 * https://www.learnentityframeworkcore.com/
 
-### 🌱 Challenges that I’m currently challenging myself:
+### Veamos los Servicios Implementados:
 Since the world is in the quarantine stage:earth_asia:, and I’m having lots of spare time:watch:, I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
 
 * Learn to code:man_technologist: 3-4 hours a day with no distraction ( One or two day off a week. ) 
